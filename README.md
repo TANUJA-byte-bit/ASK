@@ -1,7 +1,10 @@
-# ASK
+# NAME : TANUJA S
+# REGISTER NO: 212224060277
+# ASK AND FSK 
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
+Any python software
 # Program
 # ASK
 ```
